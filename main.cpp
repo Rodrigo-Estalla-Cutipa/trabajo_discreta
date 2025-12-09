@@ -33,5 +33,8 @@ int main(){
     } else {
         cout << "Opcion Inválida";
     }
+
+    cout<<"\n\nFIN DEL PROGRAMA\n";
+    system("pause");
     return 0;
 }
