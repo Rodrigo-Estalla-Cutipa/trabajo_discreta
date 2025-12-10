@@ -1,8 +1,8 @@
 #ifndef VECTORES_H
 #define VECTORES_H
 struct vectores{
-    int i;
-    int j;
-    int k;
+    double i;
+    double j;
+    double k;
 };
 #endif
